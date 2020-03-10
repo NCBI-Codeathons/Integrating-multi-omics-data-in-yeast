@@ -1,0 +1,10 @@
+file	sample	timepoint
+wt00_sorted.bam	wt00	A
+wt02_sorted.bam	wt02	B
+wt05_sorted.bam	wt05	C
+wt10_sorted.bam	wt10	D
+wt15_sorted.bam	wt15	E
+wt20_sorted.bam	wt20	F
+wt30_sorted.bam	wt30	G
+wt45_sorted.bam	wt45	H
+

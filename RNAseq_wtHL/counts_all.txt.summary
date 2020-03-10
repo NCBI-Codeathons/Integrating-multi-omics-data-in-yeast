@@ -1,0 +1,13 @@
+Status	wt00_sorted.bam	wt02_sorted.bam	wt05_sorted.bam	wt10_sorted.bam	wt15_sorted.bam	wt20_sorted.bam	wt30_sorted.bam	wt45_sorted.bam
+Assigned	5020188	4630033	4568199	4801122	4262364	4611080	5661949	5470620
+Unassigned_Unmapped	286367	300103	271892	254775	235721	260385	338843	324409
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0
+Unassigned_Nonjunction	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	661769	638136	603017	548213	449095	469753	564329	593045
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	600669	884638	602570	769754	392451	570489	660964	978176
