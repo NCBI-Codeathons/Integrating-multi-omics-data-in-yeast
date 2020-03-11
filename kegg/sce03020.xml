@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
+<!-- Creation date: Mar 25, 2011 17:54:42 +0900 (GMT+09:00) -->
+<pathway name="path:sce03020" org="sce" number="03020"
+         title="RNA polymerase"
+         image="http://www.kegg.jp/kegg/pathway/sce/sce03020.png"
+         link="http://www.kegg.jp/kegg-bin/show_pathway?sce03020">
+    <entry id="1" name="path:sce03020" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce03020">
+        <graphics name="TITLE:RNA polymerase" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="113" y="59" width="146" height="27"/>
+    </entry>
+    <entry id="2" name="ko:K03043 ko:K13797" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03043+K13797">
+        <graphics name="K03043..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="68" y="375" width="46" height="17"/>
+    </entry>
+    <entry id="3" name="ko:K03046 ko:K13797" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03046+K13797">
+        <graphics name="K03046..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="68" y="392" width="46" height="17"/>
+    </entry>
+    <entry id="4" name="ko:K03040" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03040">
+        <graphics name="K03040" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="114" y="385" width="46" height="17"/>
+    </entry>
+    <entry id="5" name="ko:K03060" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03060">
+        <graphics name="K03060" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="160" y="385" width="46" height="17"/>
+    </entry>
+    <entry id="6" name="ko:K03044 ko:K03045 ko:K13798" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03044+K03045+K13798">
+        <graphics name="K03044..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="68" y="475" width="46" height="17"/>
+    </entry>
+    <entry id="7" name="ko:K03047" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03047">
+        <graphics name="K03047" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="114" y="484" width="46" height="17"/>
+    </entry>
+    <entry id="8" name="ko:K03041 ko:K03042" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03041+K03042">
+        <graphics name="K03041..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="68" y="492" width="46" height="17"/>
+    </entry>
+    <entry id="9" name="ko:K03052" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03052">
+        <graphics name="K03052" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="114" y="501" width="46" height="17"/>
+    </entry>
+    <entry id="10" name="ko:K03051" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03051">
+        <graphics name="K03051" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="160" y="484" width="46" height="17"/>
+    </entry>
+    <entry id="11" name="ko:K03053" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03053">
+        <graphics name="K03053" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="206" y="484" width="46" height="17"/>
+    </entry>
+    <entry id="12" name="ko:K03055" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03055">
+        <graphics name="K03055" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="252" y="484" width="46" height="17"/>
+    </entry>
+    <entry id="13" name="ko:K03049 ko:K03050" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03049+K03050">
+        <graphics name="K03049..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="298" y="484" width="46" height="17"/>
+    </entry>
+    <entry id="14" name="ko:K03058" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03058">
+        <graphics name="K03058" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="206" y="501" width="46" height="17"/>
+    </entry>
+    <entry id="15" name="ko:K03056" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03056">
+        <graphics name="K03056" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="252" y="501" width="46" height="17"/>
+    </entry>
+    <entry id="16" name="sce:YOR151C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YOR151C">
+        <graphics name="RPB2, RPB150, RPO22, SIT2, SOH2" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="390" y="389" width="46" height="17"/>
+    </entry>
+    <entry id="17" name="sce:YDL140C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YDL140C">
+        <graphics name="RPO21, RPB1, RPB220, SUA8" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="390" y="406" width="46" height="17"/>
+    </entry>
+    <entry id="18" name="sce:YIL021W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YIL021W">
+        <graphics name="RPB3" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="436" y="389" width="46" height="17"/>
+    </entry>
+    <entry id="19" name="sce:YJL140W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YJL140W">
+        <graphics name="RPB4, CTF15" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="500" y="389" width="46" height="17"/>
+    </entry>
+    <entry id="20" name="sce:YBR154C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YBR154C">
+        <graphics name="RPB5" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="657" y="389" width="46" height="17"/>
+    </entry>
+    <entry id="21" name="sce:YPR187W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YPR187W">
+        <graphics name="RPO26, RPB6" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="703" y="389" width="46" height="17"/>
+    </entry>
+    <entry id="22" name="sce:YDR404C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YDR404C">
+        <graphics name="RPB7" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="546" y="389" width="46" height="17"/>
+    </entry>
+    <entry id="23" name="sce:YOR224C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YOR224C">
+        <graphics name="RPB8" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="749" y="389" width="46" height="17"/>
+    </entry>
+    <entry id="24" name="sce:YGL070C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YGL070C">
+        <graphics name="RPB9, SSU73" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="592" y="389" width="46" height="17"/>
+    </entry>
+    <entry id="25" name="sce:YOR210W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YOR210W">
+        <graphics name="RPB10" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="730" y="406" width="46" height="17"/>
+    </entry>
+    <entry id="26" name="sce:YOL005C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YOL005C">
+        <graphics name="RPB11" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="436" y="406" width="46" height="17"/>
+    </entry>
+    <entry id="27" name="sce:YHR143W-A" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YHR143W-A">
+        <graphics name="RPC10, RPB12" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="684" y="406" width="46" height="17"/>
+    </entry>
+    <entry id="28" name="sce:YOR207C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YOR207C">
+        <graphics name="RET1, PDS2, RPC128, RPC2" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="390" y="484" width="46" height="17"/>
+    </entry>
+    <entry id="29" name="sce:YOR116C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YOR116C">
+        <graphics name="RPO31, RPC1, RPC160" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="390" y="501" width="46" height="17"/>
+    </entry>
+    <entry id="30" name="sce:YPR190C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YPR190C">
+        <graphics name="RPC82, RPC3, RPC80" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="500" y="484" width="46" height="17"/>
+    </entry>
+    <entry id="31" name="sce:YDL150W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YDL150W">
+        <graphics name="RPC53, RPC4" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="546" y="484" width="46" height="17"/>
+    </entry>
+    <entry id="32" name="sce:YPR110C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YPR110C">
+        <graphics name="RPC40, RPC5" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="436" y="501" width="46" height="17"/>
+    </entry>
+    <entry id="33" name="sce:YDR045C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YDR045C">
+        <graphics name="RPC11" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="592" y="484" width="46" height="17"/>
+    </entry>
+    <entry id="34" name="sce:YNL113W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YNL113W">
+        <graphics name="RPC19" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="436" y="484" width="46" height="17"/>
+    </entry>
+    <entry id="35" name="sce:YKL144C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YKL144C">
+        <graphics name="RPC25, YKL1" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="500" y="501" width="46" height="17"/>
+    </entry>
+    <entry id="36" name="sce:YNL151C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YNL151C">
+        <graphics name="RPC31, ACP2, RPC8" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="546" y="501" width="46" height="17"/>
+    </entry>
+    <entry id="37" name="sce:YNR003C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YNR003C">
+        <graphics name="RPC34" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="592" y="501" width="46" height="17"/>
+    </entry>
+    <entry id="38" name="sce:YPR010C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YPR010C">
+        <graphics name="RPA135, RPA2, RRN2, SRP3" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="390" y="571" width="46" height="17"/>
+    </entry>
+    <entry id="39" name="sce:YOR341W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YOR341W">
+        <graphics name="RPA190, RRN1" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="390" y="588" width="46" height="17"/>
+    </entry>
+    <entry id="40" name="sce:YJR063W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YJR063W">
+        <graphics name="RPA12, RRN4" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="500" y="571" width="46" height="17"/>
+    </entry>
+    <entry id="41" name="sce:YDR156W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YDR156W">
+        <graphics name="RPA14" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="546" y="571" width="46" height="17"/>
+    </entry>
+    <entry id="42" name="sce:YJL148W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YJL148W">
+        <graphics name="RPA34, CST21" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="592" y="571" width="46" height="17"/>
+    </entry>
+    <entry id="43" name="sce:YOR340C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YOR340C">
+        <graphics name="RPA43" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="565" y="588" width="46" height="17"/>
+    </entry>
+    <entry id="44" name="sce:YNL248C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YNL248C">
+        <graphics name="RPA49" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="519" y="588" width="46" height="17"/>
+    </entry>
+    <entry id="45" name="ko:K03048" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03048">
+        <graphics name="K03048" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="206" y="385" width="46" height="17"/>
+    </entry>
+    <entry id="46" name="ko:K03059" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K03059">
+        <graphics name="K03059" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="298" y="501" width="46" height="17"/>
+    </entry>
+    <entry id="47" name="sce:YKR025W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YKR025W">
+        <graphics name="RPC37" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="638" y="501" width="46" height="17"/>
+    </entry>
+    <entry id="48" name="sce:YPR110C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YPR110C">
+        <graphics name="RPC40, RPC5" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="436" y="588" width="46" height="17"/>
+    </entry>
+    <entry id="49" name="sce:YNL113W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YNL113W">
+        <graphics name="RPC19" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="436" y="571" width="46" height="17"/>
+    </entry>
+</pathway>
