@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
+<!-- Creation date: Jan 23, 2017 16:16:03 +0900 (GMT+9) -->
+<pathway name="path:sce04130" org="sce" number="04130"
+         title="SNARE interactions in vesicular transport"
+         image="http://www.kegg.jp/kegg/pathway/sce/sce04130.png"
+         link="http://www.kegg.jp/kegg-bin/show_pathway?sce04130">
+    <entry id="1" name="sce:YDR498C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YDR498C">
+        <graphics name="SEC20" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="319" y="666" width="46" height="17"/>
+    </entry>
+    <entry id="2" name="sce:YGL098W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YGL098W">
+        <graphics name="USE1, SLT1" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="319" y="649" width="46" height="17"/>
+    </entry>
+    <entry id="3" name="sce:YOR075W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YOR075W">
+        <graphics name="UFE1" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="319" y="632" width="46" height="17"/>
+    </entry>
+    <entry id="4" name="ko:K08491" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K08491">
+        <graphics name="K08491" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="221" y="632" width="46" height="17"/>
+    </entry>
+    <entry id="5" name="sce:YIL004C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YIL004C">
+        <graphics name="BET1, SLY12" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="199" y="585" width="46" height="17"/>
+    </entry>
+    <entry id="6" name="sce:YKL196C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YKL196C">
+        <graphics name="YKT6" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="295" y="503" width="46" height="17"/>
+    </entry>
+    <entry id="7" name="sce:YHL031C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YHL031C">
+        <graphics name="GOS1" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="295" y="486" width="46" height="17"/>
+    </entry>
+    <entry id="8" name="sce:YLR026C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YLR026C">
+        <graphics name="SED5" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="295" y="469" width="46" height="17"/>
+    </entry>
+    <entry id="9" name="sce:YLR268W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YLR268W">
+        <graphics name="SEC22, SLY2, TS26, TSL26" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="246" y="503" width="46" height="17"/>
+    </entry>
+    <entry id="10" name="sce:YLR078C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YLR078C">
+        <graphics name="BOS1, SEC32" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="246" y="486" width="46" height="17"/>
+    </entry>
+    <entry id="11" name="sce:YLR026C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YLR026C">
+        <graphics name="SED5" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="246" y="469" width="46" height="17"/>
+    </entry>
+    <entry id="12" name="ko:K08509" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K08509">
+        <graphics name="K08509" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="295" y="392" width="46" height="17"/>
+    </entry>
+    <entry id="13" name="sce:YDR468C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YDR468C">
+        <graphics name="TLG1" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="246" y="412" width="46" height="17"/>
+    </entry>
+    <entry id="14" name="sce:YOL018C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YOL018C">
+        <graphics name="TLG2" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="246" y="392" width="46" height="17"/>
+    </entry>
+    <entry id="15" name="ko:K08487" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K08487">
+        <graphics name="K08487" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="246" y="372" width="46" height="17"/>
+    </entry>
+    <entry id="16" name="sce:YKL196C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YKL196C">
+        <graphics name="YKT6" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="417" y="334" width="46" height="17"/>
+    </entry>
+    <entry id="17" name="sce:YMR197C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YMR197C">
+        <graphics name="VTI1" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="505" y="308" width="46" height="17"/>
+    </entry>
+    <entry id="18" name="sce:YAL014C sce:YGL212W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YAL014C+sce:YGL212W">
+        <graphics name="SYN8, SLT2, UIP2..." fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="505" y="291" width="46" height="17"/>
+    </entry>
+    <entry id="19" name="sce:YOR106W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YOR106W">
+        <graphics name="VAM3, PTH1" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="505" y="274" width="46" height="17"/>
+    </entry>
+    <entry id="20" name="sce:YAL030W sce:YOR327C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YAL030W+sce:YOR327C">
+        <graphics name="SNC1..." fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="362" y="134" width="46" height="17"/>
+    </entry>
+    <entry id="21" name="ko:K08514" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K08514">
+        <graphics name="K08514" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="347" y="105" width="46" height="17"/>
+    </entry>
+    <entry id="22" name="ko:K08508" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K08508">
+        <graphics name="K08508" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="281" y="102" width="46" height="17"/>
+    </entry>
+    <entry id="23" name="ko:K08506" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K08506">
+        <graphics name="K08506" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="270" y="649" width="46" height="17"/>
+    </entry>
+    <entry id="24" name="ko:K08508" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K08508">
+        <graphics name="K08508" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="119" y="139" width="46" height="17"/>
+    </entry>
+    <entry id="25" name="sce:YMR183C sce:YPL232W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YMR183C+sce:YPL232W">
+        <graphics name="SSO2..." fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="236" y="102" width="46" height="17"/>
+    </entry>
+    <entry id="26" name="sce:YMR183C sce:YPL232W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YMR183C+sce:YPL232W">
+        <graphics name="SSO2..." fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="74" y="139" width="46" height="17"/>
+    </entry>
+    <entry id="27" name="path:sce04130" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce04130">
+        <graphics name="TITLE:SNARE interactions in vesicular transport" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="228" y="58" width="375" height="25"/>
+    </entry>
+    <entry id="28" name="sce:YKL006C-A" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YKL006C-A">
+        <graphics name="SFT1" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="383" y="387" width="46" height="17"/>
+    </entry>
+    <entry id="29" name="sce:YLR268W" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YLR268W">
+        <graphics name="SEC22, SLY2, TS26, TSL26" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="384" y="585" width="46" height="17"/>
+    </entry>
+    <entry id="30" name="sce:YAL030W sce:YOR327C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YAL030W+sce:YOR327C">
+        <graphics name="SNC1..." fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="263" y="206" width="46" height="17"/>
+    </entry>
+    <entry id="31" name="ko:K08512" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K08512">
+        <graphics name="K08512" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="126" y="263" width="46" height="17"/>
+    </entry>
+    <entry id="32" name="ko:K08510 ko:K13504 ko:K13505" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K08510+K13504+K13505">
+        <graphics name="K08510..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="114" y="240" width="46" height="17"/>
+    </entry>
+    <entry id="33" name="ko:K08515" type="ortholog"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K08515">
+        <graphics name="K08515" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="405" y="290" width="46" height="17"/>
+    </entry>
+    <entry id="34" name="sce:YOL018C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YOL018C">
+        <graphics name="TLG2" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="425" y="157" width="46" height="17"/>
+    </entry>
+    <entry id="35" name="sce:YDR468C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YDR468C">
+        <graphics name="TLG1" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="425" y="174" width="46" height="17"/>
+    </entry>
+    <entry id="36" name="sce:YMR197C" type="gene"
+        link="http://www.kegg.jp/dbget-bin/www_bget?sce:YMR197C">
+        <graphics name="VTI1" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="425" y="191" width="46" height="17"/>
+    </entry>
+    <entry id="37" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="425" y="174" width="46" height="51"/>
+        <component id="34"/>
+        <component id="35"/>
+        <component id="36"/>
+    </entry>
+    <entry id="38" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="505" y="291" width="46" height="51"/>
+        <component id="17"/>
+        <component id="18"/>
+        <component id="19"/>
+    </entry>
+    <entry id="39" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="295" y="486" width="46" height="51"/>
+        <component id="6"/>
+        <component id="7"/>
+        <component id="8"/>
+    </entry>
+    <entry id="40" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="246" y="486" width="46" height="51"/>
+        <component id="10"/>
+        <component id="11"/>
+        <component id="9"/>
+    </entry>
+    <entry id="41" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="319" y="649" width="46" height="51"/>
+        <component id="1"/>
+        <component id="2"/>
+        <component id="3"/>
+    </entry>
+    <relation entry1="30" entry2="25" type="PPrel">
+        <subtype name="activation" value="--&gt;"/>
+    </relation>
+    <relation entry1="20" entry2="37" type="PPrel">
+        <subtype name="activation" value="--&gt;"/>
+    </relation>
+    <relation entry1="16" entry2="38" type="PPrel">
+        <subtype name="activation" value="--&gt;"/>
+    </relation>
+    <relation entry1="28" entry2="39" type="PPrel">
+        <subtype name="activation" value="--&gt;"/>
+    </relation>
+    <relation entry1="5" entry2="40" type="PPrel">
+        <subtype name="activation" value="--&gt;"/>
+    </relation>
+    <relation entry1="29" entry2="41" type="PPrel">
+        <subtype name="activation" value="--&gt;"/>
+    </relation>
+</pathway>
