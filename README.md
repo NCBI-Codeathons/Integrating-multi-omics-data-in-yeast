@@ -25,8 +25,12 @@ The most prominent problem faced by multi-omics data analysis is how to reconcil
 ## Team member
 [Shuang Li](https://github.com/Shuang-Plum)
 
+[Yue Hu](https://github.com/jechia)
+
 [Samuel Ramirez](https://github.com/samuramirez)
+
+[Elton Rexhapaj](https://github.com/erexhepa)
 
 [Matthew Berginski](https://github.com/mbergins)
 
-[Yue Hu](https://github.com/jechia)
+
