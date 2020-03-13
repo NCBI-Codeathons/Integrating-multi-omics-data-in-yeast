@@ -23,7 +23,7 @@ Data from different omics are firstly organized to have each node (gene or prote
 Please contact the authors for installation guidance for now. We are not trying to be mysterious and we are hard-working people. But we do want MOMA's debut experience be smooth and happy.  
 
 ## Example input and output for test run
-[RNA-seq]()
+[RNA-seq](https://github.com/NCBI-Codeathons/Integrating-multi-omics-data-in-yeast/blob/master/RNAseq_wtHL/seqdata_vstnorm.csv)  
 [Metabolimics](https://github.com/NCBI-Codeathons/Integrating-multi-omics-data-in-yeast/blob/master/Metab_wtHL/wtHL_cpd_path_stats_data_mancur.csv)
 
 Multiomics Network  
