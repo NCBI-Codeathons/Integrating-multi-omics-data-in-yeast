@@ -31,7 +31,7 @@ Please contact the authors for installation guidance for now. We are not trying 
 #### Multiomics Network  
 ![alt text](https://github.com/NCBI-Codeathons/Integrating-multi-omics-data-in-yeast/blob/master/plots/Network_sucrose.png)  
 #### Fluxomics simulation  
-![alt text]()
+![alt text](https://github.com/NCBI-Codeathons/Integrating-multi-omics-data-in-yeast/blob/master/plots/fluxplot_3.png)
 
 ## Additionals
 Subnetwork inference based on the network model
