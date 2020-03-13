@@ -11,7 +11,7 @@ The most prominent problem faced by multi-omics data analysis is how to reconcil
 ### Network visualization
 Based on [KEGG pathway](https://www.genome.jp/kegg/pathway.html) and [The CellMap](https://thecellmap.org/), we can get the underlying network for gene x gene interaction, metabolite x metabolite interaction and metabolite x gene interaction. The three layers of netwrok will then be ploted in 3D in [Gephi](https://gephi.org/), with each node size denotes the PLSDA calculated loadings (contribution to separation of data between samples). Different from previous plotting, we add correlation between each node (calculated from CCA) as the weight of the edge, which would render a more straightforward view about how nodes within each layer and nodes across different layers are correlated. This sets the fundation for further network based analysis, such as infer the subnetwork unit that is significantly perturbed based on the node and edge loadings. In this way, a new way/unit to check and analyze the network can be generated, which is completely independent from the predefined pathway or GO term.     
 
-### genome scale metabolic models
+### Genome scale metabolic models
 
 
 ## Workflow
