@@ -12,31 +12,22 @@ The most prominent problem faced by multi-omics data analysis is how to reconcil
 Based on [KEGG pathway](https://www.genome.jp/kegg/pathway.html) and [The CellMap](https://thecellmap.org/), we can get the underlying network for gene x gene interaction, metabolite x metabolite interaction and metabolite x gene interaction. The three layers of netwrok will then be ploted in 3D in [Gephi](https://gephi.org/), with each node size denotes the PLSDA calculated loadings (contribution to separation of data between samples). Different from previous plotting, we add correlation between each node (calculated from CCA) as the weight of the edge, which would render a more straightforward view about how nodes within each layer and nodes across different layers are correlated. This sets the fundation for further network based analysis, such as infer the subnetwork unit that is significantly perturbed based on the node and edge loadings. In this way, a new way/unit to check and analyze the network can be generated, which is completely independent from the predefined pathway or GO term.     
 
 ### Genome scale metabolic models
-Genome scale metabolic models (GEM) provide a powerful platform for cell metabolism simulation. With the advancement of Yeast 
+Genme scale metabolic models (GEM) provide a powerful platform for cell metabolism simulation. With the extensive knowledge about yeast, the consesus GEMs have been well maintained and updated, such as the [Yeast8](https://www.nature.com/articles/s41467-019-11581-3). The 3000s well annotated and manually curated reactions can be efficiently solved with the constraint-based reconstruction and analysis (COBRA) toolbox based on Matlab. Yeast8 and COBRA offers a platform to simulate yeast under various envirnmental and genetical perturbations. The output fluxomics provides an extra layer of knowledge, which is essential in guiding reaction selection and hypothese formation for the follow-up experiment design.
 
 ## Workflow
+Data from different omics are firstly organized to have each node (gene or protein or metabolite) associated with pathway information from KEGG database. PLS-DA and CCA analysis are then perfromed to analyze the contribution of each node toward the variation of the data and also the correlation between omics data sources. 3D plots is then performed with each omics data plotted on a separate layer with inner layer and inter layer connection drawn from KEGG and TheCellMap. Node color indicates its data source, node size indicates its power in driving sample variation, and edge width indicates correlation strength between two nodes. Correlation matrix produced by CCA could also be used to infer new edge if needed. On the other side, constraints can be set based on experimental settings and sample preparation for COBRA to simulate steady state Yeast8 models and produce fluxomics data. Reactions bear drastic flux changes can then work as the guidance for follow-up experiment design.
 
 
 
 ## Installation
-
-[KEGG pathway](https://www.genome.jp/kegg/pathway.html) parse with [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html) and [KEGGgraph](https://www.bioconductor.org/packages/release/bioc/html/KEGGgraph.html)
-
-Data integration with [mixomics](http://mixomics.org/) and [RGCCA](https://cran.r-project.org/web/packages/RGCCA/index.html)
-
-Data simulation with 
-[COBRA](https://opencobra.github.io/cobratoolbox/latest/tutorials/tutorialFBA.html)
- and [yeast8](https://github.com/SysBioChalmers/yeast-GEM)
-
-Network visualization with [gephi](https://gephi.org/)
-
-
-
-
+Please contact the authors for installation guidance for now. We are not trying to be mysterious and we are hard-working people. But we do want MOMA's debut experience be smooth and happy.  
 
 ## Example input and output for test run
 
+
 ## Additionals
+Subnetwork inference based on the network model
+New edge inference based on the fluxomics simulation
 
 ## Team member
 [Shuang Li](https://github.com/Shuang-Plum)  
