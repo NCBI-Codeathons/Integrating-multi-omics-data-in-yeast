@@ -23,9 +23,11 @@ Genome scale metabolic models (GEM) provide a powerful platform for cell metabol
 [KEGG pathway](https://www.genome.jp/kegg/pathway.html) parse with [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html) and [KEGGgraph](https://www.bioconductor.org/packages/release/bioc/html/KEGGgraph.html)
 
 Data integration with [mixomics](http://mixomics.org/) and [RGCCA](https://cran.r-project.org/web/packages/RGCCA/index.html)
+
 Data simulation with 
 [COBRA](https://opencobra.github.io/cobratoolbox/latest/tutorials/tutorialFBA.html)
  and [yeast8](https://github.com/SysBioChalmers/yeast-GEM)
+
 Network visualization with [gephi](https://gephi.org/)
 
 
