@@ -16,7 +16,7 @@ Genme scale metabolic models (GEM) provide a powerful platform for cell metaboli
 
 ## Workflow
 Data from different omics are firstly organized to have each node (gene or protein or metabolite) associated with pathway information from KEGG database. PLS-DA and CCA analysis are then perfromed to analyze the contribution of each node toward the variation of the data and also the correlation between omics data sources. 3D plots is then performed with each omics data plotted on a separate layer with inner layer and inter layer connection drawn from KEGG and TheCellMap. Node color indicates its data source, node size indicates its power in driving sample variation, and edge width indicates correlation strength between two nodes. Correlation matrix produced by CCA could also be used to infer new edge if needed. On the other side, constraints can be set based on experimental settings and sample preparation for COBRA to simulate steady state Yeast8 models and produce fluxomics data. Reactions bear drastic flux changes can then work as the guidance for follow-up experiment design.
-![alt text](
+![alt text](https://github.com/NCBI-Codeathons/Integrating-multi-omics-data-in-yeast/blob/master/plots/workflow.png)
 
 
 ## Installation
