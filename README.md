@@ -34,7 +34,7 @@ Please contact the authors for installation guidance for now. We are not trying 
 ![alt text](https://github.com/NCBI-Codeathons/Integrating-multi-omics-data-in-yeast/blob/master/plots/fluxplot_3.png)
 
 ## Additionals
-Subnetwork inference based on the network model
+Subnetwork inference based on the network model 
 New edge inference based on the fluxomics simulation
 
 ## Team member
