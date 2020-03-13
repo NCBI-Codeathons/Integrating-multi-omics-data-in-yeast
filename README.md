@@ -27,7 +27,7 @@ Please contact the authors for installation guidance for now. We are not trying 
 [Metabolimics](https://github.com/NCBI-Codeathons/Integrating-multi-omics-data-in-yeast/blob/master/Metab_wtHL/wtHL_cpd_path_stats_data_mancur.csv)
 
 Multiomics Network  
-![alt text]()
+![alt text](https://github.com/NCBI-Codeathons/Integrating-multi-omics-data-in-yeast/blob/master/plots/Network_sucrose.png)  
 Fluxomics simulation  
 ![alt text]()
 
