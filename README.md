@@ -1,6 +1,6 @@
 # Integrating-multi-omics-data-in-yeast
 # Multi-Omics Multiplex Analysis (MOMA)
-## Whys and Whats and Hows
+## Whats Whys and Hows
 Multi-Omics Multiplex Analysis (MOMA) is a analysis software we built for full-service multi-omics data analysis, including multi-source data integration, 3D pathway visualization,(subnetwork inference), and genome scale metabolic models for fluxomics simulation, network visualization, hypothese generation, follow-up exeriment guidance and network inference.
 
 ### Data integration
@@ -12,7 +12,7 @@ The most prominent problem faced by multi-omics data analysis is how to reconcil
 Based on [KEGG pathway](https://www.genome.jp/kegg/pathway.html) and [The CellMap](https://thecellmap.org/), we can get the underlying network for gene x gene interaction, metabolite x metabolite interaction and metabolite x gene interaction. The three layers of netwrok will then be ploted in 3D in [Gephi](https://gephi.org/), with each node size denotes the PLSDA calculated loadings (contribution to separation of data between samples). Different from previous plotting, we add correlation between each node (calculated from CCA) as the weight of the edge, which would render a more straightforward view about how nodes within each layer and nodes across different layers are correlated. This sets the fundation for further network based analysis, such as infer the subnetwork unit that is significantly perturbed based on the node and edge loadings. In this way, a new way/unit to check and analyze the network can be generated, which is completely independent from the predefined pathway or GO term.     
 
 ### Genome scale metabolic models
-
+Genme scale metabolic models (GEM) provide a powerful platform for cell metabolism simulation. With the advancement of Yeast 
 
 ## Workflow
 
